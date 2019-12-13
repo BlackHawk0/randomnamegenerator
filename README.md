@@ -1,2 +1,2 @@
 # randomnamegenerator
-Just a random name generator based on python
+Free for use random baby name Generator based on lists, dictionaries and python random function
